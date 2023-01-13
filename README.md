@@ -21,7 +21,7 @@ Created a project that uses these system view controllers and combines them to p
  
   <img width="198" height = "400" alt="Img3" src="https://user-images.githubusercontent.com/90863360/212413102-60c9d6a0-f61f-4a62-aa90-08a4586b4ebc.png">
 
-  <img width="198" height = "400" alt="Img4" src="https://user-images.githubusercontent.com/90863360/212413116-37fcf398-ae90-435d-b1be-7ab4672e442e.png">
+  <img width="200" height = "400" alt="Img4" src="https://user-images.githubusercontent.com/90863360/212413116-37fcf398-ae90-435d-b1be-7ab4672e442e.png">
  
   <img width="200" height = "400" alt="Img5" src="https://user-images.githubusercontent.com/90863360/212413126-b0d51fcf-d714-40b4-b89b-b68bf68fc76f.png">
   
